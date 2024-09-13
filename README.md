@@ -23,3 +23,4 @@ AI 기반 자동 기사 생성 시스템: 최신 뉴스를 수집하고 분석�
 
 - https://github.com/mshumer/ai-journalist
 - YouTube [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
+- 폰트 [빛의계승자체](https://noonnu.cc/font_page/442)
