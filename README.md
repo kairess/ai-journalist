@@ -19,8 +19,22 @@ AI 기반 자동 기사 생성 시스템: 최신 뉴스를 수집하고 분석�
 6. 선택된 기사들의 본문 내용 추출
 7. 추출된 내용을 바탕으로 AI가 한국어로 NYT 스타일의 기사 작성 (Claude 3.5 Sonnet)
 
+## API Usage while development
+
+Total cost: $0.3464 (461.29 South Korean won)
+
+Claude 3 Haiku
+- Input: $0.0049 (0.019 Million Input Tokens)
+- Output: $0.0015 (0.001 Million Output Tokens)
+
+Claude 3.5 Sonnet
+- Input: $0.21 (0.071 Million Input Tokens) 
+- Output: $0.13 (0.008 Million Output Tokens)
+
 ### Reference
 
 - https://github.com/mshumer/ai-journalist
 - YouTube [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
 - 폰트 [빛의계승자체](https://noonnu.cc/font_page/442)
+
+
